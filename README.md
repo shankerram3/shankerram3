@@ -1,23 +1,29 @@
-# Hi there, I'm Shanker Ram ðŸ‘‹
+# Hi, I'm Shanker Ram 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.
+🚀 **Software Engineer | Full-Stack Developer | Builder**
 
-## About Me
+Welcome to my GitHub profile. I enjoy designing and building scalable, real-world software systems — from backend APIs to full-stack applications — and contributing to open-source projects along the way.
 
-- ðŸ”­ I'm currently working on **exciting projects** that solve real-world problems
-- ðŸŒ± I'm currently learning **new technologies and best practices**
-- ðŸ‘¯ I'm looking to collaborate on **open-source projects**
-- ðŸ’¬ Ask me about **web development, software engineering, or tech in general**
-- ðŸ“« How to reach me: **rharikr3@asu.edu**
-- âš¡ Fun fact: **I love turning ideas into code!**
+---
 
-## ðŸ› ï¸ Tech Stack
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **production-grade projects and research-driven applications**
+- 🌱 Continuously learning **systems design, cloud infrastructure, and modern frameworks**
+- 🤝 Open to collaborating on **open-source and impactful engineering projects**
+- 💬 Ask me about **full-stack development, backend systems, or software architecture**
+- 📫 Reach me at: **rharikr3@asu.edu**
+- ⚡ Fun fact: I enjoy turning abstract ideas into **clean, working code**
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Frameworks & Libraries
@@ -25,48 +31,54 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Tools & Technologies
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## ðŸ“Š GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankerram3&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shankerram3&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=shankerram3&theme=radical)
 
-## ðŸš€ Featured Projects
+---
 
-### Project 1
-**Brief description of your project**
-- ðŸ”§ Tech Stack: Technologies used
-- ðŸ“ [View Project](link-to-project)
+## 🚀 Featured Projects
 
-### Project 2
-**Brief description of your project**
-- ðŸ”§ Tech Stack: Technologies used
-- ðŸ“ [View Project](link-to-project)
+### 🔹 Project One
+**Short, impact-focused description of what the project solves**
+- 🔧 Tech: Python, Node.js, PostgreSQL (example)
+- 📎 [View Repository](link-to-project)
 
-## ðŸ“ˆ Contribution Graph
+### 🔹 Project Two
+**What problem it addresses and why it matters**
+- 🔧 Tech: React, Express, Docker (example)
+- 📎 [View Repository](link-to-project)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shankerram3&theme=redical)
+---
 
-## ðŸ¤ Connect With Me
+## 📈 Contribution Activity
 
-- ðŸ“§ **Email**: [rharikr3@asu.edu](mailto:rharikr3@asu.edu)
-- ðŸ’¼ **LinkedIn**: [Ram Harikrishnan](https://www.linkedin.com/in/ram-harikrishnan/)
-- ðŸŒ **Website**: [ramharikrishnan.dev](https://ramharikrishnan.dev)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shankerram3&theme=react-dark)
 
-## ðŸ“ Recent Activity
+---
+
+## 🤝 Connect With Me
+
+- 📧 **Email**: [rharikr3@asu.edu](mailto:rharikr3@asu.edu)
+- 💼 **LinkedIn**: [Ram Harikrishnan](https://www.linkedin.com/in/ram-harikrishnan/)
+- 🌐 **Website**: [ramharikrishnan.dev](https://ramharikrishnan.dev)
+
+---
+
+## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-â­ï¸ From [shankerram3](https://github.com/shankerram3)
-
-Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project.
+⭐️ If you like what you see, feel free to explore my repositories or reach out — I’m always open to building something meaningful.
