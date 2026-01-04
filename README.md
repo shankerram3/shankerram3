@@ -1,12 +1,12 @@
-﻿# Hi there, I''m Shanker Ram ðŸ‘‹
+# Hi there, I'm Shanker Ram ðŸ‘‹
 
-Welcome to my GitHub profile! I''m a passionate developer who loves building innovative solutions and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.
 
 ## About Me
 
-- ðŸ”­ I''m currently working on **exciting projects** that solve real-world problems
-- ðŸŒ± I''m currently learning **new technologies and best practices**
-- ðŸ‘¯ I''m looking to collaborate on **open-source projects**
+- ðŸ”­ I'm currently working on **exciting projects** that solve real-world problems
+- ðŸŒ± I'm currently learning **new technologies and best practices**
+- ðŸ‘¯ I'm looking to collaborate on **open-source projects**
 - ðŸ’¬ Ask me about **web development, software engineering, or tech in general**
 - ðŸ“« How to reach me: **rharikr3@asu.edu**
 - âš¡ Fun fact: **I love turning ideas into code!**
@@ -69,4 +69,4 @@ Welcome to my GitHub profile! I''m a passionate developer who loves building inn
 
 â­ï¸ From [shankerram3](https://github.com/shankerram3)
 
-Thanks for visiting! Feel free to explore my repositories and don''t hesitate to reach out if you''d like to collaborate on a project.
+Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project.
