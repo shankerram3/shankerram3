@@ -46,19 +46,7 @@ Welcome to my GitHub profile. I enjoy designing and building scalable, real-worl
 
 ---
 
-## 🚀 Featured Projects
 
-### 🔹 Project One
-**Short, impact-focused description of what the project solves**
-- 🔧 Tech: Python, Node.js, PostgreSQL (example)
-- 📎 [View Repository](link-to-project)
-
-### 🔹 Project Two
-**What problem it addresses and why it matters**
-- 🔧 Tech: React, Express, Docker (example)
-- 📎 [View Repository](link-to-project)
-
----
 
 ## 📈 Contribution Activity
 
