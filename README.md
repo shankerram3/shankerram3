@@ -1,72 +1,62 @@
-# Hi, I'm Ram Harikrishnan 👋
+# Ram Harikrishnan
 
-🚀 **Software Engineer | Full-Stack Developer | Builder**
+**Building at the intersection of AI and software engineering** | MS @ Arizona State University
 
-Welcome to my GitHub profile. I enjoy designing and building scalable, real-world software systems — from backend APIs to full-stack applications — and contributing to open-source projects along the way.
+I build AI-powered tools that solve real problems — from agents that automate job applications to GraphRAG systems that extract startup intelligence. I'm particularly interested in LLM applications, reinforcement learning, and turning research ideas into production software.
 
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **production-grade projects and research-driven applications**
-- 🌱 Continuously learning **systems design, cloud infrastructure, and modern frameworks**
-- 🤝 Open to collaborating on **open-source and impactful engineering projects**
-- 💬 Ask me about **full-stack development, backend systems, or software architecture**
-- 📫 Reach me at: **rharikr3@asu.edu**
-- ⚡ Fun fact: I enjoy turning abstract ideas into **clean, working code**
+Contributor to [Meta's OpenEnv](https://github.com/meta-pytorch/OpenEnv) (RL post-training environments).
 
 ---
 
-## 🛠 Tech Stack
+## What I'm Working On
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**[ApplyPilot](https://github.com/shankerram3/ApplyPilot)** — AI agent that applies to jobs for you. Any site. Any form.
+`Python` `AI Agents`
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+**[MakerBOT](https://github.com/shankerram3/MakerBOT)** — Educational platform generating interactive visualizations for math and science using Claude API
+`JavaScript` `Claude API` `Education`
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**[Startup Intelligence App](https://github.com/shankerram3/Startup-Intelligence-Analysis-App)** — GraphRAG system extracting startup intelligence from TechCrunch with Neo4j, GPT-4o, and semantic search
+`Python` `Neo4j` `GraphRAG` `GPT-4o`
 
----
+**[resume-maker](https://github.com/shankerram3/resume-maker)** — Resume engine with vector embeddings, semantic matching, and ATS optimization using GPT-4 and LaTeX
+`Python` `OpenAI` `LaTeX` `Vector Search`
 
-## 📊 GitHub Stats
+**[NomadSync](https://github.com/shankerram3/NomadSync)** — Collaborative travel planner with AI itinerary generation, expense splitting, and Google Maps integration
+`TypeScript` `React` `Google Gemini` `Maps API`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shankerram3&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shankerram3&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=shankerram3&theme=radical)
+**[Decentralized IAM](https://github.com/shankerram3/decentralized-iam-onboarding)** — Blockchain-based identity management using Verifiable Credentials and DIDs for employee onboarding
+`Ethereum` `Smart Contracts` `Next.js`
 
 ---
 
+## Tech Stack
 
+**Languages**&ensp; Python · TypeScript · JavaScript · Java · C++ · Dart
 
-## 📈 Contribution Activity
+**AI/ML**&ensp; LangGraph · OpenAI API · Claude API · Google Gemini · RAG · Vector Embeddings · Reinforcement Learning · Fine-tuning
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shankerram3&theme=react-dark)
+**Backend**&ensp; Node.js · Express · Neo4j · Streamlit · FastAPI
 
----
+**Frontend**&ensp; React · Next.js · Vue · Flutter
 
-## 🤝 Connect With Me
-
-- 📧 **Email**: [rharikr3@asu.edu](mailto:rharikr3@asu.edu)
-- 💼 **LinkedIn**: [Ram Harikrishnan](https://www.linkedin.com/in/ram-harikrishnan/)
-- 🌐 **Website**: [ramharikrishnan.dev](https://ramharikrishnan.dev)
+**Infra & Tools**&ensp; Docker · Git · LaTeX · Ethereum/Solidity
 
 ---
 
-## 📝 Recent Activity
+## GitHub Stats
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shankerram3&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankerram3&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=shankerram3&theme=github-dark-blue&hide_border=true)
 
 ---
 
-⭐️ If you like what you see, feel free to explore my repositories or reach out — I’m always open to building something meaningful.
+## Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-rharikr3%40asu.edu-blue?style=flat-square&logo=gmail)](mailto:rharikr3@asu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ram_Harikrishnan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ram-harikrishnan/)
+[![Website](https://img.shields.io/badge/Portfolio-ramharikrishnan.dev-000?style=flat-square&logo=safari)](https://ramharikrishnan.dev)
