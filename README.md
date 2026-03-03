@@ -74,6 +74,19 @@ I build AI-powered tools that solve real problems — from agents that automate 
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">OpenEnv (Meta PyTorch)</h3>
+      <p align="center">
+        <a href="https://github.com/shankerram3/OpenEnv"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github" /></a>
+        <a href="https://github.com/meta-pytorch/OpenEnv"><img src="https://img.shields.io/badge/-Upstream-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+      </p>
+      <p align="center">Contributor to Meta's interface library for RL post-training with environments</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/RL-FF6F00?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">NomadSync</h3>
       <p align="center">
         <a href="https://github.com/shankerram3/NomadSync"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github" /></a>
@@ -83,6 +96,19 @@ I build AI-powered tools that solve real problems — from agents that automate 
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">SFT Fire Simulation</h3>
+      <p align="center">
+        <a href="https://github.com/shankerram3/SUPERVISED-FINE-TUNING-to-control-fire-simulation-environment"><img src="https://img.shields.io/badge/-View_Repo-181717?style=for-the-badge&logo=github" /></a>
+      </p>
+      <p align="center">Supervised fine-tuning to control fire simulation environments</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Fine--tuning-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/RL-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       </p>
     </td>
     <td width="50%">
@@ -113,6 +139,7 @@ I build AI-powered tools that solve real problems — from agents that automate 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 #### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
